@@ -1,0 +1,11 @@
+{
+    "canisters": {
+        "icp_project": {
+            "frontend": {
+            "entrypoint": "build/index.html"
+            },
+            "source": ["build"],
+            "type": "assets"
+        }
+    }
+}
